@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><!--amp-->
-<head>
-
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-
-
-
-<link rel="preload" as="style" href="https://list46almeida.netlify.app/assets/style.css?v=1643067680895011000">
-<link rel="canonical" href="https://list46almeida.netlify.app/">
-<link rel="alternate" hreflang="en" href="https://list46almeida.netlify.app/">
-<link rel="icon" type="image/x-icon" href="https://list46almeida.netlify.app/assets/favicon.ico">
-
-
-<title>
-  List 46 - Tools and guides - 
-</title>
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-<link rel="stylesheet" href="/assets/style.css?v=1643067680895011000">
-
-</head>
-
-<body class="layout--default">
-  <div class="row container">
-    <header>
-      <div class="row center">
-  <div class="columns six offset-by-three">
-    <h1>List 46 - Tools and guides</h1>
-    <p><b>Decentralization is one of the words you would hear from crypto OGs all the time. In 2022 iteration of crypto markets, it is talked about less, but that does not make it less important.</b></p>
-
-  </div>
-
-</div>
-
-    </header>
-    <main>
-      <div class="row intext">
-        <p>Out of the whole “crypto tools” parent group, the biggest keyword is “crypto mining tools” with 450 US hits every month. It is at the same time less competitive than some of the sub-niches, such as <a href="https://www.altcointrading.net/tools/">trading tools</a>, or indeed than the parent term.</p>
+I"=<p>Out of the whole “crypto tools” parent group, the biggest keyword is “crypto mining tools” with 450 US hits every month. It is at the same time less competitive than some of the sub-niches, such as <a href="https://www.altcointrading.net/tools/">trading tools</a>, or indeed than the parent term.</p>
 
 <ul>
   <li>
@@ -127,25 +89,4 @@
 <p>What are crypto airdrops, and is it a good way to acquire cryptocurrency? Is it worth your time? Free money through an airdrop and staking are similar. There are, however, several significant variances between the two. Furthermore, both entail little labor once set up. They also do not necessitate any financial investment at first. Time investment they do, though.</p>
 
 <p>The best resources for crypto airdrops and curated lists. Medium.com is putting some effort in detecting scams, but you are generally better off at OG forums like bitcointalk.org.  Official project Facebook or Telegram groups are also very useful for finding giveaways.</p>
-
-      </div>
-    </main>
-    <footer>
-        <div class="row container">
-  <div class="columns four offset-by-four center">
-    <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
-    &nbsp;
-    <a href="https://instagram.com//"><i class="fa fa-instagram"></i></a>
-    &nbsp;
-    <a href="https://medium.com/"><i class="fa fa-medium"></i></a>
-  </div>
-</div>
-<div class="row center">
-  <p>&nbsp;</p>
-  &copy; 2022 List 46 - Tools and guides
-</div>
-
-    </footer>
-  </div>
-</body>
-</html>
+:ET
